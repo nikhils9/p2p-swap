@@ -1,0 +1,9 @@
+{
+    "validator": {
+        "type": "PlutusV2",
+        "script": "compiled Plutus validator code with parameters applied"
+    },
+    "policyId": "ebe9d...",
+    "lockAddress": "addr_test1...",
+    "params": []
+}
