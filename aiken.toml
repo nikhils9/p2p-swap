@@ -1,0 +1,19 @@
+name = "nikhils9/p2p_swap"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'nikhils9/p2p_swap'"
+
+[repository]
+user = "nikhils9"
+project = "p2p_swap"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.6.0"
+source = "github"
+
+[[dependencies]]
+name = "logicalmechanism/assist"
+version = "main"
+source = "github"

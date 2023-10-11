@@ -1,2 +1,3 @@
-# offchain-starter
-A template to build Lucid &amp; Deno based Off-chain project for Cardano
+# Peer-to-Peer Swap
+
+Project to faciliate peer to peer swaps on Cardano
